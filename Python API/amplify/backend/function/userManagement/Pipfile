@@ -1,0 +1,16 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+src = {editable = true, path = "./src"}
+
+requests="*"
+urllib3= "==1.26.6"
+boto3= "1.35.55"
+[requires]
+python_version = "3.12"
+python_full_version = "3.12.4"

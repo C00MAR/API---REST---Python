@@ -1,0 +1,33 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-pythonapi-dev-5ddd4-authRole",
+      "UnauthRoleArn": "arn:aws:iam::135808930620:role/amplify-pythonapi-dev-5ddd4-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::135808930620:role/amplify-pythonapi-dev-5ddd4-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-pythonapi-dev-5ddd4-deployment",
+      "UnauthRoleName": "amplify-pythonapi-dev-5ddd4-unauthRole",
+      "StackName": "amplify-pythonapi-dev-5ddd4",
+      "StackId": "arn:aws:cloudformation:eu-west-1:135808930620:stack/amplify-pythonapi-dev-5ddd4/4b7a8cb0-9ab7-11ef-a9de-0ab74f897459",
+      "AmplifyAppId": "d3ucc9miab1s6e"
+    },
+    "categories": {
+      "function": {
+        "userManagement": {
+          "deploymentBucketName": "amplify-pythonapi-dev-5ddd4-deployment",
+          "s3Key": "amplify-builds/userManagement-7a6a765477797131396e-build.zip"
+        },
+        "insertEmail": {
+          "deploymentBucketName": "amplify-pythonapi-dev-5ddd4-deployment",
+          "s3Key": "amplify-builds/insertEmail-4a5a2b66772b4f5a7549-build.zip"
+        }
+      },
+      "api": {
+        "userApi": {}
+      },
+      "storage": {
+        "users": {}
+      }
+    }
+  }
+}

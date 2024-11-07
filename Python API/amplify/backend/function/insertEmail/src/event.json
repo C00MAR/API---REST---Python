@@ -1,0 +1,8 @@
+{
+    "headers": {
+        "x-api-key": "15e97ca6-037e-4527-9bc5-a0479fbe0f9e"
+    },
+    "body": {
+        "email": "test11@example.com"
+    }
+}
